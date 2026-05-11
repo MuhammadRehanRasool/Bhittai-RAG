@@ -40,3 +40,6 @@ htmlcov/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
+
+# Extra
+presentation/
