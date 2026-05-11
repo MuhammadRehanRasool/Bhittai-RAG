@@ -151,4 +151,4 @@ Tips:
 
 The notebooks are written to be lightweight and easy to inspect. You can run them from top to bottom to recreate the formatted dataset and the search index.
 
-With <3 by Rehan Sathio(https://rehansathio.dev) for Sindhi Community!
+With <3 by [Rehan Sathio](https://rehansathio.dev) for Sindhi Community!
