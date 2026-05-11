@@ -1,0 +1,52 @@
+query,expected,Top-1,Top-3,Top-5,Top-10
+meenhan barish ji umeed,سُر سارنگ,0,0,1,1
+badal ain bijli jo dhabko,سُر سارنگ,0,0,1,1
+sarang ain dharti ji khushali,سُر سارنگ,0,0,0,0
+tarsayal thar ain barish,سُر سارنگ,0,0,0,0
+paharun te meenhan ji dua,سُر سارنگ,0,0,0,0
+sohni ain mehar ji pirit,سُر سھڻي,0,0,1,1
+gharro ain dariya ji dahat,سُر سھڻي,0,0,0,1
+dum ain dushman ji dunya,سُر سھڻي,0,1,1,1
+sahar ain jar mein judai,سُر سھڻي,0,0,0,1
+ishq mein dubyal sohni,سُر سھڻي,0,0,1,1
+marui ain malir jo kookar,سُر مارئي,0,0,0,0
+umar kot ji qaid ain zanjeer,سُر مارئي,0,0,0,0
+loee ain paneer jo maan,سُر مارئي,0,0,0,0
+sanghar ain dhatiun jo ghum,سُر مارئي,0,0,0,0
+vatan ji yaad mein rual marui,سُر مارئي,0,0,0,0
+umar jo zulm ain marui ji himat,سُر مارئي,0,0,0,0
+sassui punhun ji judai,سُر حسيني,0,0,1,1
+jabal ain pathar jo safar,سُر معذوري,0,0,0,0
+kech ja karwan ain bhotar,سُر ديسي,0,0,0,0
+punhun ji pachar mein piral,سُر ڪوھياري,0,0,0,0
+ari jam ja put ain sasui,سُر ديسي,0,1,1,1
+pahirun ain gaddoja jo dard,سُر معذوري,0,0,0,0
+keenjhar dhand ain jam tamachi,سُر ڪاموڏ,0,0,0,0
+noori gandri ain raja jo ishq,سُر ڪاموڏ,0,0,0,0
+machhiyani ain tamachi ji tazzim,سُر ڪاموڏ,0,0,0,0
+miani ain meenhan jo nazaro,سُر ڪاموڏ,0,0,0,0
+karbala jo maidan ain imam hussain,سُر ڪيڏارو,1,1,1,1
+yazid jo zulm ain shahadat,سُر ڪيڏارو,1,1,1,1
+abbas ain asghar jo gham,سُر ڪيڏارو,0,0,0,0
+deen laiy sir jo nazrano,سُر ڪيڏارو,1,1,1,1
+muharram ji pachar ain matam,سُر ڪيڏارو,1,1,1,1
+jogi ain sanyasi ji taryo,سُر رامڪلي,0,0,0,0
+ashes ain dhunni jo dhuo,سُر رامڪلي,0,0,0,0
+nani ain hinglaj jo safar,سُر پورب,0,0,0,0
+guru ain chela ji katcheri,سُر رامڪلي,0,0,0,0
+khahori ain parbat jo panth,سُر کاھوڙي,0,0,0,0
+sorath ain rai diyach ji qurbani,سُر سورٺ,0,0,0,0
+bijal jo chang ain suro,سُر سورٺ,0,0,0,0
+junagarh jo raja ain mangno,سُر سورٺ,0,0,0,0
+surando ain sir jo sawal,سُر سورٺ,0,0,0,0
+mumal rano ain kak mahal jo jadu,سُر راڻو,0,0,0,0
+luddano ain sodho jo firaq,سُر راڻو,0,0,0,0
+dhola ain mormal ji pirit,سُر راڻو,0,0,0,0
+laila ain dasal jo haar,سُر ليلا,0,0,0,0
+chanesar ji chauk ain pachtao,سُر ليلا,0,0,0,0
+kaunru ain gehna ji lalach,سُر ليلا,0,0,0,0
+sacho ishq ain haqiqi mahboob,سُر ڪلياڻ,0,0,0,0
+allah ji wahdaniyat ain tawheed,سُر ڪلياڻ,0,0,0,0
+dunya fani aahe ain ghaflat,سُر آسا,0,0,0,0
+insan jo nafas ain khudi,سُر سھڻي,0,0,0,0
+pakeeza pirit ain qalb jo sukoon,سُر يمن ڪلياڻ,1,1,1,1
